@@ -4,7 +4,7 @@ A robust, lightweight Synthetic Monitoring tool built with Python. This script t
 ---
 
 # 📸 Screenshots
-[!screenshots](dashboard.png)
+![screenshots](dashboard.png)
 
 ---
 
@@ -64,24 +64,15 @@ site-uptime-pinger/
 
 ---
 
-# 🤝 Contributing
+# 🛣️ Roadmap Features
 
-Contributions are welcome! If you have suggestions for new features (like Slack/Discord notifications), feel free to:
+- [ ] Email Alerts: Integration with SMTP to send daily uptime reports.
 
-- Fork the Project
+- [ ] Dockerization: Create a Dockerfile to allow the script to run in any containerized environment.
 
-- Create your Feature Branch (git checkout -b feature/AmazingFeature)
+- [ ] Dashboarding: Basic CLI-based dashboard using the rich library for better visuals.
 
-- Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-- Push to the Branch (git push origin feature/AmazingFeature)
-
-- Open a Pull Request
-
----
-
-# ⚖️ License
-Distributed under the MIT License. See LICENSE for more information.
+- [ ] Response Time Tracking: Measure and log latency (ms) for each request.
 
 ---
 
