@@ -1,0 +1,14 @@
+site-uptime-pinger/
+├── src/
+│   └── pinger.py         # Our actual logic
+├── requirements.txt       # List of libraries (just 'requests' for now)
+├── .gitignore             # To keep your repo clean
+└── README.md              # Documentation (The "Why" and "How")
+
+Define a URL to check.
+
+Send a request and get the "Status Code."
+
+Handle failures (like if the site is totally gone).
+
+Loop it so it runs every 60 seconds.
