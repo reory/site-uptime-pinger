@@ -4,7 +4,7 @@ A robust, lightweight Synthetic Monitoring tool built with Python. This script t
 ---
 
 # 📸 Screenshots
-![screenshots](dashboard.png)
+![Terminal Screenshot](screenshots/dashboard.png)
 
 ---
 
@@ -76,4 +76,4 @@ site-uptime-pinger/
 
 ---
 
-**Built by Roy Peters** [Click here to contact me](https://www.linkedin.com/in/roy-p-74980b382/)
+**Built by Roy Peters** ![Click here to contact me](https://www.linkedin.com/in/roy-p-74980b382/)
