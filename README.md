@@ -1,4 +1,11 @@
 # 🌐 Python Site Uptime Monitor
+
+![Last Commit](https://img.shields.io/github/last-commit/reory/Health-Tracker-App?cacheSeconds=60)
+
+![Repo Size](https://img.shields.io/github/repo-size/reory/Health-Tracker-App?cacheSeconds=60)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A robust, lightweight Synthetic Monitoring tool built with Python. This script tracks the availability and latency of multiple web services, providing real-time console feedback and persistent, rotated logs for historical analysis.
 
 ---
