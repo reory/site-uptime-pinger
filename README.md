@@ -76,4 +76,4 @@ site-uptime-pinger/
 
 ---
 
-**Built by Roy Peters** ![Click here to contact me](https://www.linkedin.com/in/roy-p-74980b382/)
+**Built by Roy Peters** [Click here to contact me](https://www.linkedin.com/in/roy-p-74980b382/)
