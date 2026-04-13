@@ -1,6 +1,6 @@
 # 🌐 Python Site Uptime Monitor
 
-![Last Commit](https://img.shields.io/github/last-commit/reory/site-uptime-pinnger?cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/reory/site-uptime-pinger?cacheSeconds=60)
 ![Repo Size](https://img.shields.io/github/repo-size/reory/site-uptime-pinger?cacheSeconds=60)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
