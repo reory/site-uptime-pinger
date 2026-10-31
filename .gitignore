@@ -3,3 +3,4 @@ __pycache__/
 uptime.log
 *.pyc
 .ruff_cache
+.txt
